@@ -1,9 +1,3 @@
-@font-face {
-  font-family: "Plus Jakarta Sans";
-  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css") format('woff2');
-  font-display: swap;
-}
-
 body{
   font-family: "Plus Jakarta Sans", sans-serif !important;
   display: flex;
